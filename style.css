@@ -1,0 +1,76 @@
+BODY {
+ background-color: #fff; /* цвет фона */
+padding-left: 50px;
+padding-right: 50px;
+} 
+H1 {                             /* заголовок */
+
+background-color: #33ADFF;
+   color: #fff;
+   font-size: 200%;
+   font-family: Arial, Verdana, sans-serif;
+   text-align: center
+}
+P
+{
+  font-family:  gabriola, Tahoma, Helvetica, Sans-Serif;
+        color:#000;
+        font-style:normal;
+        font-weight:100;
+	font-size:25px;
+        line-height:15px;
+}
+
+#navbar {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  border: 2px solid #0066FF;
+  border-radius: 20px 5px;
+  width: 1370px;
+  text-align: center;
+  background-color: #33ADFF;
+}
+#navbar a {
+  color: #fff;
+  padding: 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  width: 100px;
+}
+#navbar a:hover {
+  border-radius: 20px 5px;
+  background-color: #0066FF;
+}
+#navbar li { display: inline; }
+
+.postBox {
+        border:0px solid #333;
+        background: #fff;
+        width:1370px;
+        margin-top:20px;
+        margin-left:0px;
+	margin-bottom:250px;
+        }
+.postBox h2 a {
+        font-family: "Segoe UI Semilight", "Segoe UI", Tahoma, Helvetica, Sans-Serif;
+        color:#000;
+        font-style:normal;
+        font-weight:100;
+	font-size:33px;
+        line-height:35px;
+   
+        }
+
+
+.raz {
+        margin:0 auto;
+        border:0px solid #333;
+        background: #fff;
+        width:116px;
+        height:29px;
+        margin-bottom:50px;
+        background: url(images/raz.png) 0px 0px no-repeat;
+        }
+
